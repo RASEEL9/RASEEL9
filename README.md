@@ -11,7 +11,7 @@ I am a **highly motivated software engineer** specializing in **backend developm
 
 - 💻 Proficient in **backend architecture, API development, and scalable applications**.  
 - 🌱 Currently developing **AI-powered solutions** and enhancing my expertise in **deep learning**.  
-- 🎯 Career Goal: Secure a **leading role in AI & software engineering**, contribute to cutting-edge innovations, and pursue my **dream job at Elm**.  
+- 🎯 Career Goal: Secure a **leading role in AI & software engineering**, contribute to cutting-edge innovations  
 - 🏆 **Award-Winning Developer** - **2nd Place at GOSI Hackathon 2024** for AI-Powered Personal Trainer Project.  
 - 📸 Aspiring entrepreneur with a vision for launching a **photography business**.  
 
