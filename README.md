@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👩🏻‍💻 About Me  
 I am a **highly motivated software engineer** specializing in **backend development** and **AI-driven solutions**. With a passion for problem-solving and a strong foundation in **Java, Spring Boot, and Machine Learning**, I am dedicated to leveraging technology to create impactful solutions.  
 
 - 💻 Proficient in **backend architecture, API development, and scalable applications**.  
